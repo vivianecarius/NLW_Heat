@@ -1,6 +1,6 @@
 const linksSocialMedia = {
   github: 'vivianecarius',
-  youtube: 'UC_VKKBpw7amjIQDuagSSnfA',
+  youtube: 'channel/UC_VKKBpw7amjIQDuagSSnfA',
   facebook: 'viviane.carius.7',
   instagram: 'vivicarius',
   twitter: 'vivianecarius'
