@@ -60,7 +60,8 @@ main{
 
 .avatar > img{ 
   width: 10rem;
-  height: 11.5rem;object-fit: cover;
+  height: 11.5rem;
+  object-fit: cover;
 
   clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%)
 
@@ -110,7 +111,6 @@ ul{
   body{
     background: linear-gradient(
       to bottom,
-      #b50567,
       #cb2356,
       #d94245,
       #e06035,
